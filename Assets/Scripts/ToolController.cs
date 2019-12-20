@@ -3,6 +3,7 @@ using UnityEngine;
 using Sirenix.OdinInspector;
 using Core.Gameplay.Info;
 using UnityEngine.UI;
+using Live2D.Cubism.Framework;
 
 public class ToolController : MonoBehaviour
 {
@@ -20,10 +21,15 @@ public class ToolController : MonoBehaviour
         GenericContainer.Instance.TryGetValue(nameof(ToolsInfoContainer), out var container);
         var toolsInfoContainer = container as ToolsInfoContainer;
 
+
         toolsInfoContainer.LoadCharacters(m_generatedJson);
 
-        var spawnedModel = Instantiate(m_cubismModel, m_girlContainer);
-        spawnedModel.transform.localPosition = new Vector3(0, 0, 0);
+        if (FindObjectOfType<CubismModel>() == null)
+        {
+            var spawnedModel = Instantiate(m_cubismModel, m_girlContainer);
+            spawnedModel.transform.localPosition = new Vector3(0, 0, 0);
+            spawnedModel.GetComponent<CubismUpdateController>().enabled = false;
+        }
 
         backgroundImage.sprite = m_background;
     }
