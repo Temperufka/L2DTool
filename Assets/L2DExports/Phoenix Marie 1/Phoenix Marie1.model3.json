@@ -1,0 +1,53 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Phoenix Marie1.moc3",
+		"Textures": [
+			"Phoenix Marie1.4096/texture_00.png",
+			"Phoenix Marie1.4096/texture_01.png",
+			"Phoenix Marie1.4096/texture_02.png",
+			"Phoenix Marie1.4096/texture_03.png",
+			"Phoenix Marie1.4096/texture_04.png",
+			"Phoenix Marie1.4096/texture_05.png",
+			"Phoenix Marie1.4096/texture_06.png",
+			"Phoenix Marie1.4096/texture_07.png",
+			"Phoenix Marie1.4096/texture_08.png",
+			"Phoenix Marie1.4096/texture_09.png",
+			"Phoenix Marie1.4096/texture_10.png",
+			"Phoenix Marie1.4096/texture_11.png",
+			"Phoenix Marie1.4096/texture_12.png",
+			"Phoenix Marie1.4096/texture_13.png",
+			"Phoenix Marie1.4096/texture_14.png",
+			"Phoenix Marie1.4096/texture_15.png",
+			"Phoenix Marie1.4096/texture_16.png",
+			"Phoenix Marie1.4096/texture_17.png",
+			"Phoenix Marie1.4096/texture_18.png",
+			"Phoenix Marie1.4096/texture_19.png",
+			"Phoenix Marie1.4096/texture_20.png",
+			"Phoenix Marie1.4096/texture_21.png",
+			"Phoenix Marie1.4096/texture_22.png",
+			"Phoenix Marie1.4096/texture_23.png",
+			"Phoenix Marie1.4096/texture_24.png",
+			"Phoenix Marie1.4096/texture_25.png",
+			"Phoenix Marie1.4096/texture_26.png",
+			"Phoenix Marie1.4096/texture_27.png",
+			"Phoenix Marie1.4096/texture_28.png",
+			"Phoenix Marie1.4096/texture_29.png",
+			"Phoenix Marie1.4096/texture_30.png",
+			"Phoenix Marie1.4096/texture_31.png"
+		],
+		"DisplayInfo": "Phoenix Marie1.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

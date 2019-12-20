@@ -1,0 +1,478 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad024e4086bc74f43a620b70f4767add, type: 3}
+  m_Name: ToolsInfoContainer
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  configFile: {fileID: 0}
+  m_data:
+    m_clothes:
+    - m_type: 6
+      m_id: 1000
+      m_frontPartsId: phoenix_special_dress_front2
+      m_sexyPartsId: bigass_dress_sexy2
+    - m_type: 5
+      m_id: 6000
+      m_frontPartsId: phoenix_special_stockings_front2
+      m_sexyPartsId: bigass_stockings_sexy2
+    - m_type: 1
+      m_id: 2000
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 2
+      m_id: 3000
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 2
+      m_id: 3001
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 1
+      m_id: 2001
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 3
+      m_id: 4000
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 5
+      m_id: 6001
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 2
+      m_id: 3002
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 1
+      m_id: 2002
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 1
+      m_id: 2003
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 2
+      m_id: 3003
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 1
+      m_id: 2004
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 2
+      m_id: 3004
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 3
+      m_id: 4001
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 4
+      m_id: 5000
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 3
+      m_id: 4002
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 2
+      m_id: 3005
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 5
+      m_id: 6002
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 1
+      m_id: 2005
+      m_frontPartsId: 
+      m_sexyPartsId: 
+    - m_type: 6
+      m_id: 1001
+      m_frontPartsId: roughsex_corset_front2
+      m_sexyPartsId: roughsex_corset_sexy2
+    - m_type: 3
+      m_id: 4003
+      m_frontPartsId: roughsex_tapes_front2
+      m_sexyPartsId: roughsex_tapes_sexy2
+    - m_type: 4
+      m_id: 5001
+      m_frontPartsId: roughsex_panty_front2
+      m_sexyPartsId: roughsex_panty_sexy2
+    - m_type: 5
+      m_id: 6003
+      m_frontPartsId: roughsex_stockings_fron2
+      m_sexyPartsId: roughsex_stockings_sexy2
+    - m_type: 5
+      m_id: 6004
+      m_frontPartsId: roughsex_bracelet_front2
+      m_sexyPartsId: roughsex_bracelet_sexy2
+    - m_type: 2
+      m_id: 3006
+      m_frontPartsId: yoga_pants_front2
+      m_sexyPartsId: yoga_pants_sexy2
+    - m_type: 1
+      m_id: 2006
+      m_frontPartsId: yoga_top_front2
+      m_sexyPartsId: yoga_top_sexy2
+    - m_type: 5
+      m_id: 6005
+      m_frontPartsId: yoga_cap_front_front2
+      m_sexyPartsId: yoga_cap_sexy_front2
+    - m_type: 5
+      m_id: 6006
+      m_frontPartsId: yoga_watch_front2
+      m_sexyPartsId: yoga_watch_sexy2
+    - m_type: 4
+      m_id: 5002
+      m_frontPartsId: yoga_panty_front2
+      m_sexyPartsId: yoga_panty_sexy2
+    - m_type: 1
+      m_id: 2007
+      m_frontPartsId: milf_top_front2
+      m_sexyPartsId: milf_top_sexy2
+    - m_type: 2
+      m_id: 3007
+      m_frontPartsId: milf_pants_front2
+      m_sexyPartsId: milf_pants_sexy2
+    - m_type: 5
+      m_id: 6007
+      m_frontPartsId: glasses
+      m_sexyPartsId: milf_glasses_sexy2
+    - m_type: 5
+      m_id: 6008
+      m_frontPartsId: milf_necklace_front2
+      m_sexyPartsId: milf_necklace_sexy2
+    - m_type: 4
+      m_id: 5003
+      m_frontPartsId: milf_undies_front2
+      m_sexyPartsId: milf_undies_sexy2
+    - m_type: 3
+      m_id: 4004
+      m_frontPartsId: massage_bra_front2
+      m_sexyPartsId: massage_bra_sexy2
+    - m_type: 4
+      m_id: 5004
+      m_frontPartsId: massage_panty_front2
+      m_sexyPartsId: massage_panty_sexy2
+    - m_type: 1
+      m_id: 2008
+      m_frontPartsId: massage_shirt_front2
+      m_sexyPartsId: massage_shirt_sexy2
+    - m_type: 2
+      m_id: 3008
+      m_frontPartsId: massage_pants_front2
+      m_sexyPartsId: massage_pants_sexy2
+    - m_type: 5
+      m_id: 6009
+      m_frontPartsId: massage_belt_front2
+      m_sexyPartsId: massage_belt_sexy2
+    - m_type: 1
+      m_id: 2009
+      m_frontPartsId: lesbian_top_front2
+      m_sexyPartsId: lesbian_top_sexy2
+    - m_type: 5
+      m_id: 6010
+      m_frontPartsId: lesbian_necklace_front2
+      m_sexyPartsId: lesbian_necklace_sexy2
+    - m_type: 5
+      m_id: 6011
+      m_frontPartsId: lesbian_socks_front2
+      m_sexyPartsId: lesbian_socks_sexy2
+    - m_type: 2
+      m_id: 3009
+      m_frontPartsId: lesbian_polo_front2
+      m_sexyPartsId: lesbian_polo_sexy2
+    - m_type: 5
+      m_id: 6012
+      m_frontPartsId: Clothes_BeanieCap_front
+      m_sexyPartsId: Clothes_BeanieCap_sexy
+    - m_type: 6
+      m_id: 1002
+      m_frontPartsId: parody_corset_front2
+      m_sexyPartsId: parody_corset_sexy2
+    - m_type: 5
+      m_id: 6013
+      m_frontPartsId: Gloves
+      m_sexyPartsId: parody_gloves_sexy3
+    - m_type: 5
+      m_id: 6014
+      m_frontPartsId: wings; parody_wings_front
+      m_sexyPartsId: parody_wings_sexy2
+    - m_type: 5
+      m_id: 6015
+      m_frontPartsId: parody_boots_front2
+      m_sexyPartsId: parody_shoes_sexy2
+    - m_type: 5
+      m_id: 6016
+      m_frontPartsId: WIG
+      m_sexyPartsId: parody_wig_sexy2
+    - m_type: 1
+      m_id: 2010
+      m_frontPartsId: school_blouse_front2
+      m_sexyPartsId: school_blouse_sexy2
+    - m_type: 2
+      m_id: 3010
+      m_frontPartsId: school_skirt_front2
+      m_sexyPartsId: school_skirt_sexy2
+    - m_type: 5
+      m_id: 6017
+      m_frontPartsId: body_front_glasses_front2
+      m_sexyPartsId: body_front_glasses_sexy2
+    - m_type: 3
+      m_id: 4005
+      m_frontPartsId: school_bra_front2
+      m_sexyPartsId: school_bra_sexy2
+    - m_type: 4
+      m_id: 5005
+      m_frontPartsId: school_panty_front2
+      m_sexyPartsId: school_panty_sexy2
+    - m_type: 1
+      m_id: 2011
+      m_frontPartsId: anal_top_front2
+      m_sexyPartsId: anal_top_sexy2
+    - m_type: 2
+      m_id: 3011
+      m_frontPartsId: anal_bottom_front2
+      m_sexyPartsId: anal_bottom_sexy2
+    - m_type: 3
+      m_id: 4006
+      m_frontPartsId: anal_underwear_top_front2
+      m_sexyPartsId: anal_underwear_top_sexy2
+    - m_type: 4
+      m_id: 5006
+      m_frontPartsId: anal_underwear_bottom_front2
+      m_sexyPartsId: anal_underwear_bottom_sexy2
+    - m_type: 5
+      m_id: 6018
+      m_frontPartsId: anal_necklace_front_sexy2
+      m_sexyPartsId: anal_necklace_sexy2
+    - m_type: 1
+      m_id: 2012
+      m_frontPartsId: bigass_top_front2
+      m_sexyPartsId: bigass_top_sexy2
+    - m_type: 5
+      m_id: 6019
+      m_frontPartsId: bigass_socks_front2
+      m_sexyPartsId: bigass_socks_sexy2
+    - m_type: 4
+      m_id: 5007
+      m_frontPartsId: bigass_panty_front2
+      m_sexyPartsId: bigass_panty_sexy2
+    - m_type: 2
+      m_id: 3012
+      m_frontPartsId: bigass_shorts_front2
+      m_sexyPartsId: bigass_shorts_sexy2
+    - m_type: 5
+      m_id: 6020
+      m_frontPartsId: bigass_wristband_front2
+      m_sexyPartsId: bigass_wristband_sexy2
+    - m_type: 6
+      m_id: 1003
+      m_frontPartsId: grayonepiece_top_front2
+      m_sexyPartsId: grayonepiece_top_sexy2
+    - m_type: 5
+      m_id: 6021
+      m_frontPartsId: grayonepiece_bracelet_f2
+      m_sexyPartsId: grayonepiece_bracelet_s2
+    - m_type: 5
+      m_id: 6022
+      m_frontPartsId: grayonepiece_purse_fron2
+      m_sexyPartsId: grayonepiece_purse_sexy2
+    - m_type: 5
+      m_id: 6023
+      m_frontPartsId: grayonepiece_earrings_f2
+      m_sexyPartsId: grayonepiece_earrings_s2
+    - m_type: 5
+      m_id: 6024
+      m_frontPartsId: grayonepiece_necklace_f2
+      m_sexyPartsId: grayonepiece_necklace_s2
+    - m_type: 5
+      m_id: 6025
+      m_frontPartsId: deepthroat_shades_front2
+      m_sexyPartsId: deepthroat_sexy_shades_front2
+    - m_type: 6
+      m_id: 1004
+      m_frontPartsId: deepthroat_coat_collar_front2
+      m_sexyPartsId: deepthroat_coat_collar_sexy2
+    - m_type: 3
+      m_id: 4007
+      m_frontPartsId: deepthroat_bra_front2
+      m_sexyPartsId: deepthroat_bra_sexy
+    - m_type: 4
+      m_id: 5008
+      m_frontPartsId: deepthroat_panties_front2
+      m_sexyPartsId: deepthroat_panties_sexy2
+    - m_type: 5
+      m_id: 6026
+      m_frontPartsId: deepthroat_stockings_front2
+      m_sexyPartsId: deepthroat_stockings_sexy2
+    - m_type: 6
+      m_id: 1005
+      m_frontPartsId: squirt_dress_front2
+      m_sexyPartsId: squirt_dress_sexy2
+    - m_type: 3
+      m_id: 4008
+      m_frontPartsId: squirt_bra_front2
+      m_sexyPartsId: squirt_underwear_bra_sexy2
+    - m_type: 4
+      m_id: 5009
+      m_frontPartsId: squirt_panty_front2
+      m_sexyPartsId: squirt_underwear_panty_sexy2
+    - m_type: 5
+      m_id: 6027
+      m_frontPartsId: squirt_socks_front2
+      m_sexyPartsId: squirt_socks_sexy2
+    - m_type: 5
+      m_id: 6028
+      m_frontPartsId: squirt_headband_front2
+      m_sexyPartsId: squirt_headband_sexy_front2
+    - m_type: 6
+      m_id: 1006
+      m_frontPartsId: cream_dress_front2
+      m_sexyPartsId: cream_dress_sexy2
+    - m_type: 5
+      m_id: 6029
+      m_frontPartsId: cream_leggarter_front2
+      m_sexyPartsId: cream_leggarter_sexy
+    - m_type: 5
+      m_id: 6030
+      m_frontPartsId: creampie_choker_front2
+      m_sexyPartsId: creampie_choker_sexy2
+    - m_type: 5
+      m_id: 6031
+      m_frontPartsId: cream_bracelet_front2
+      m_sexyPartsId: cream_bracelet_sexy2
+    - m_type: 4
+      m_id: 5010
+      m_frontPartsId: cream_panty_front2
+      m_sexyPartsId: cream_undies_sexy2
+    - m_type: 1
+      m_id: 2013
+      m_frontPartsId: brunette_blouse_front2
+      m_sexyPartsId: brunette_blouse_sexy2
+    - m_type: 2
+      m_id: 3013
+      m_frontPartsId: brunette_skirt_front2
+      m_sexyPartsId: brunette_skirt_sexy2
+    - m_type: 5
+      m_id: 6032
+      m_frontPartsId: brunette_stockings_front2
+      m_sexyPartsId: brunette_stockings_sexy2
+    - m_type: 3
+      m_id: 4009
+      m_frontPartsId: brunette_bra_front2
+      m_sexyPartsId: brunette_bra_sexy2
+    - m_type: 4
+      m_id: 5011
+      m_frontPartsId: brunette_panties_front2
+      m_sexyPartsId: brunette_panties_sexy2
+    - m_type: 3
+      m_id: 4010
+      m_frontPartsId: blonde_bra_front2
+      m_sexyPartsId: blonde_bra_sexy2
+    - m_type: 4
+      m_id: 5012
+      m_frontPartsId: blonde_panty_front2
+      m_sexyPartsId: blonde_panty_sexy2
+    - m_type: 5
+      m_id: 6033
+      m_frontPartsId: blonde_crown_front_fron2
+      m_sexyPartsId: blonde_crown_front_sexy2
+    - m_type: 5
+      m_id: 6034
+      m_frontPartsId: blonde_shoulderleft_fro2
+      m_sexyPartsId: blonde_shoulderleft_sex2
+    - m_type: 5
+      m_id: 6035
+      m_frontPartsId: blonde_scepter_front2
+      m_sexyPartsId: blonde_scepter_sexy2
+    - m_type: 1
+      m_id: 2014
+      m_frontPartsId: brandedset1_top1_front2
+      m_sexyPartsId: brandedset1_top1_sexy2
+    - m_type: 1
+      m_id: 2015
+      m_frontPartsId: brandedset1_top2_front2
+      m_sexyPartsId: brandedset1_top2_sexy2
+    - m_type: 1
+      m_id: 2016
+      m_frontPartsId: brandedset1_top3_front2
+      m_sexyPartsId: brandedset1_top3_sexy2
+    - m_type: 2
+      m_id: 3014
+      m_frontPartsId: brandedset1_bottom_fron2
+      m_sexyPartsId: BrandedSet1_Shorts_Se2
+    - m_type: 2
+      m_id: 3015
+      m_frontPartsId: brandedset2_shorts_fron2
+      m_sexyPartsId: brandedset2_shorts_sexy2
+    - m_type: 3
+      m_id: 4011
+      m_frontPartsId: brandedset2_bra_front2
+      m_sexyPartsId: brandedset2_bra_sexy2
+    - m_type: 1
+      m_id: 2017
+      m_frontPartsId: brandedset3_top_front2
+      m_sexyPartsId: brandedset3_top_sexy2
+    - m_type: 2
+      m_id: 3016
+      m_frontPartsId: brandedset3_bottom_front2
+      m_sexyPartsId: brandedset3_bottom_sexy2
+    - m_type: 1
+      m_id: 2018
+      m_frontPartsId: brandedSet4_top_front2
+      m_sexyPartsId: brandedSet4_top_sexy2
+    - m_type: 2
+      m_id: 3017
+      m_frontPartsId: brandedSet4_bottom_front2
+      m_sexyPartsId: brandedSet4_bottom_sexy2
+    - m_type: 3
+      m_id: 4012
+      m_frontPartsId: brandedSet5_bra1_front2
+      m_sexyPartsId: brandedSet5_bra1_sexy2
+    - m_type: 7
+      m_id: 7000
+      m_frontPartsId: brandedSet5_underwear_front2
+      m_sexyPartsId: brandedSet5_underwear_sexy2
+    - m_type: 3
+      m_id: 4013
+      m_frontPartsId: brandedSet5_bra2_front2
+      m_sexyPartsId: brandedSet5_bra2_sexy2
+    - m_type: 3
+      m_id: 4014
+      m_frontPartsId: brandedset6_bra_front2
+      m_sexyPartsId: brandedset6_bra_sexy2
+    - m_type: 4
+      m_id: 5013
+      m_frontPartsId: brandedset6_panty_front2
+      m_sexyPartsId: brandedset6_panty_sexy2
+    - m_type: 6
+      m_id: 1007
+      m_frontPartsId: brandedset7_suit_front2
+      m_sexyPartsId: brandedset7_suit_sexy
+    - m_type: 5
+      m_id: 6036
+      m_frontPartsId: brandedset7_glasses_front_front
+      m_sexyPartsId: brandedset7_glasses_sexy_sexy
+    - m_type: 5
+      m_id: 6037
+      m_frontPartsId: brandedset7_choker_front_sexy
+      m_sexyPartsId: brandedset7_choker_sexy_sexy
