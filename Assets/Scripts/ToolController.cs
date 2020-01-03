@@ -28,7 +28,10 @@ public class ToolController : MonoBehaviour
         {
             var spawnedModel = Instantiate(m_cubismModel, m_girlContainer);
             spawnedModel.transform.localPosition = new Vector3(0, 0, 0);
-            spawnedModel.GetComponent<CubismUpdateController>().enabled = false;
+            if (spawnedModel.GetComponent<CubismUpdateController>() != null)
+            {
+                spawnedModel.GetComponent<CubismUpdateController>().enabled = false;
+            }
         }
 
         backgroundImage.sprite = m_background;

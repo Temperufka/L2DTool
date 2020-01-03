@@ -124,8 +124,50 @@ namespace Core.Gameplay.UI
             m_cubismModel = FindObjectOfType<CubismModel>();
         }
 
+        [Binding]
+        public void OnClick_Sexy()
+        {
+            foreach (var item in ToolsInfoContainer.Data.GetSexyParts())
+            {
+                m_cubismPartsController.EnablePartOpacity(m_cubismModel, item.SexyPartsId);
+                m_cubismPartsController.DisablePartOpacity(m_cubismModel, item.FrontPartsId);
+            }
 
-   
+            foreach (var item in m_cubismModel.Parts)
+            {
+                if (item.name.Contains("Sexy") || item.name == "Part")
+                {
+                    m_cubismPartsController.EnablePartOpacity(m_cubismModel, item.name);
+                }
+                else if (item.name.Contains("Front"))
+                {
+                    m_cubismPartsController.DisablePartOpacity(m_cubismModel, item.name);
+                }
+            }
+        }
+
+        [Binding]
+        public void OnClick_Front()
+        {
+            foreach (var item in ToolsInfoContainer.Data.GetSexyParts())
+            {
+                m_cubismPartsController.EnablePartOpacity(m_cubismModel, item.FrontPartsId);
+                m_cubismPartsController.DisablePartOpacity(m_cubismModel, item.SexyPartsId);
+            }
+
+            foreach (var item in m_cubismModel.Parts)
+            {
+                if (item.name.Contains("Sexy") || item.name == "Part")
+                {
+                    m_cubismPartsController.DisablePartOpacity(m_cubismModel, item.name);
+                }
+                else if (item.name.Contains("Front"))
+                {
+                    m_cubismPartsController.EnablePartOpacity(m_cubismModel, item.name);
+                }
+            }
+        }
+
 
         public L2DModelsData GetPreviousElement(ClothingType partType, L2DModelsData currentAvatarPart)
         {   

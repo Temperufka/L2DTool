@@ -118,6 +118,17 @@ namespace Core.Gameplay.Info
 
         }
 
+        public List<L2DModelsData> GetSexyParts()
+        {
+            var clothes = Clothes.Where(x => x.SexyPartsId.Contains("sexy")).ToList();
+            return clothes;
+        }
+
+        public List<L2DModelsData> GetFrontParts()
+        {
+            var clothes = Clothes.Where(x => x.SexyPartsId.Contains("front")).ToList();
+            return clothes;
+        }
     }
 
     [Serializable]
